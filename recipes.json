@@ -1560,6 +1560,25 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "111",
+			"name": "ヤチ飯",
+			"description": "っっっっっｓ",
+			"tag": [],
+			"ingredient": [
+				{
+					"amount": "1"
+				}
+			],
+			"ingredientGroup": [
+				{
+					"ingredient": []
+				}
+			],
+			"step": [
+				{}
+			]
 		}
 	]
 }
